@@ -1,0 +1,142 @@
+{
+  "ingredientes": [
+    "Arroz",
+    "Pollo",
+    "Tomate",
+    "Cebolla",
+    "Ajo",
+    "Pimiento",
+    "Aceite",
+    "Sal",
+    "Pimienta",
+    "Caldo de Pollo",
+    "Pescado blanco",
+    "Jugo de limón",
+    "Cilantro",
+    "Ají",
+    "Camote",
+    "Maíz",
+    "Lechuga",
+    "Papa",
+    "Zanahoria",
+    "Lentejas",
+    "Yuca",
+    "Plátano",
+    "Frijoles",
+    "Pepino",
+    "Espinaca"
+  ],
+  "recetas": [
+    {
+      "titulo": "Arroz con Pollo",
+      "ingredientes": [
+        "Arroz",
+        "Pollo",
+        "Tomate",
+        "Cebolla",
+        "Ajo",
+        "Pimiento",
+        "Aceite",
+        "Sal",
+        "Pimienta"
+      ],
+      "imagen": "app/img/arrozconpollo.jpg"
+    },
+    {
+      "titulo": "Pollo al Horno",
+      "ingredientes": [
+        "Pollo",
+        "Tomate",
+        "Cebolla",
+        "Ajo",
+        "Aceite",
+        "Sal",
+        "Pimienta"
+      ],
+      "imagen": "app/img/Polloalhorno.webp"
+    },
+    {
+      "titulo": "Ensalada de Tomate",
+      "ingredientes": ["Tomate", "Cebolla", "Aceite", "Sal", "Pimienta"],
+      "imagen": "app/img/tomate.jpg"
+    },
+    {
+      "titulo": "Sopa de Pollo",
+      "ingredientes": [
+        "Pollo",
+        "Cebolla",
+        "Ajo",
+        "Caldo de Pollo",
+        "Sal",
+        "Pimienta"
+      ],
+      "imagen": "app/img/SopaDePollo.jpg"
+    },
+    {
+      "titulo": "Ceviche",
+      "ingredientes": [
+        "Pescado blanco",
+        "Jugo de limón",
+        "Cebolla",
+        "Cilantro",
+        "Ají",
+        "Sal",
+        "Pimienta",
+        "Camote",
+        "Maíz",
+        "Lechuga",
+        "Tomate"
+      ],
+      "imagen": "app/img/ceviche.png"
+    },
+    {
+      "titulo": "Lentejas Guisadas",
+      "ingredientes": [
+        "Lentejas",
+        "Tomate",
+        "Cebolla",
+        "Ajo",
+        "Zanahoria",
+        "Aceite",
+        "Sal",
+        "Pimienta"
+      ],
+      "imagen": "app/img/lentejasguisadas.webp"
+    },
+    {
+      "titulo": "Yuca Frita",
+      "ingredientes": ["Yuca", "Aceite", "Sal"],
+      "imagen": "app/img/yucafrita.webp"
+    },
+    {
+      "titulo": "Plátanos Maduros",
+      "ingredientes": ["Plátano", "Aceite", "Sal"],
+      "imagen": "app/img/platanosmaduros.webp"
+    },
+    {
+      "titulo": "Frijoles Negros",
+      "ingredientes": [
+        "Frijoles",
+        "Cebolla",
+        "Ajo",
+        "Pimiento",
+        "Aceite",
+        "Sal",
+        "Pimienta"
+      ],
+      "imagen": "app/img/frijolesnegros.webp"
+    },
+    {
+      "titulo": "Ensalada de Pepino y Espinaca",
+      "ingredientes": [
+        "Pepino",
+        "Espinaca",
+        "Cebolla",
+        "Aceite",
+        "Sal",
+        "Pimienta"
+      ],
+      "imagen": "app/img/ensaladapepinoespinaca.webp"
+    }
+  ]
+}
